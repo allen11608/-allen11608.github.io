@@ -7,5 +7,11 @@
 <ul>
     <li>打LOL</li>
     <li>算數</li>
-</ul>    
+</ul> 
+
+##專長
+<ul>
+    <li>找路</li>
+    <li>算數</li>
+</ul> 
     
